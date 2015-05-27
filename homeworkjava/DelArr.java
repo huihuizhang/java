@@ -11,6 +11,8 @@ public class DelArray {
     }
     removeDuplicate(list);
     System.out.println("得到的不重复数组为：");
+C
+C
      for (int i = 0; i < list.size()-1; i++){
          System.out.print(list.get(i) + "  ");
      }
